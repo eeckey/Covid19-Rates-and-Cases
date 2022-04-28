@@ -12,7 +12,7 @@ This project includes two thematic maps, one is a choropleth map of the covid-19
 - [Covid-19 Map 2](https://eeckey.github.io/Covid19-Rates-and-Cases/map2.html)
 
 ## Map Screenshots
-link and screenshot
+![Map 2](/img/Map2.jpg "Map 2") 
 
 ## Primary Map Functions
 The primary functions of both mapsare the clickable data points to show the exact number of cases and county name.
