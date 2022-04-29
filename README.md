@@ -12,11 +12,15 @@ This project includes two thematic maps using county level data. Map 1 is a chor
 - [Covid-19 Map 2](https://eeckey.github.io/Covid19-Rates-and-Cases/map2.html)
 
 ## Map Screenshots
+Map 1: Choropleth map of covid-19 rates in the United States by county
 ![Map 1](/img/map1.png "Map 1") 
+
+Map 2: Proportional symbols of covid-19 cases in the United States by county
 ![Map 2](/img/map2.png "Map 2") 
 
 ## Primary Map Functions
-The primary functions of both maps are the clickable data points to show the exact number of covid-19 cases and the county name.
+- The primary function of Map 1 is the information window. When the cursor is hovering over a county, the information window shows the covid-19 rate information for that county and what state it is in. If the cursor is not hovering over a county, the information window says, "Hover over a county!"
+- The primary function of Map 2 is the clickable data points to show the exact number of covid-19 cases and the county name.
 
 ## Libraries Used
 - [Map Box API](https://docs.mapbox.com/api/overview/)
