@@ -16,7 +16,7 @@ This project includes two thematic maps using county level data. Map 1 is a chor
 ![Map 2](/img/map2.png "Map 2") 
 
 ## Primary Map Functions
-The primary functions of both mapsare the clickable data points to show the exact number of covid-19 cases and the county name.
+The primary functions of both maps are the clickable data points to show the exact number of covid-19 cases and the county name.
 
 ## Libraries Used
 - [Map Box API](https://docs.mapbox.com/api/overview/)
