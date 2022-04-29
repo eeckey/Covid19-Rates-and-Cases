@@ -12,6 +12,7 @@ This project includes two thematic maps using county level data. Map 1 is a chor
 - [Covid-19 Map 2](https://eeckey.github.io/Covid19-Rates-and-Cases/map2.html)
 
 ## Map Screenshots
+![Map 1](/img/map1.png "Map 1") 
 ![Map 2](/img/map2.png "Map 2") 
 
 ## Primary Map Functions
